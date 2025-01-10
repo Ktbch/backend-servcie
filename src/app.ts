@@ -12,7 +12,7 @@ export const app = express()
 
 
 app.use(cors({
-    origin: "https://investment-app-i3ko.onrender.com",
+    origin: "https://investment-app-oe2x.onrender.com",
     credentials: true
 }))
 
